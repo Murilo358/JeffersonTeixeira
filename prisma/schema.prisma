@@ -1,0 +1,39 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+  output   = "../node_modules/.prisma/client"
+ previewFeatures = ["fullTextSearch", "fullTextIndex"]
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DIRECT_URL")
+}
+
+
+model Property {
+  id                  String            @id @default(uuid())
+  title               String
+  description         String
+  lat                 String
+  lng                 String
+  sould               Boolean
+  imagesUrl           String[]
+  highlights          String[]
+  highLightImage      String
+  valuePerMeter       Decimal
+  totalMeters         Int @default(0)
+  street              String
+  neighborhood        String
+  number              Int
+  city                String
+  state               String
+  iptuValue           BigInt
+  dormitoryCount      BigInt
+  bathroomsCount      BigInt
+  suitesCount         BigInt
+  carSpaces           BigInt
+  totalValue          Decimal
+}

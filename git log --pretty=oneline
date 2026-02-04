@@ -1,0 +1,119 @@
+[33mcommit b6103c6e00e969a1144c3f252d8d5fc001329ef4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Murilo358 <murilobarbosa358@gmail.com>
+Date:   Sat Jul 8 18:33:04 2023 -0300
+
+    feat: add datepicker start and end date validation
+
+[33mcommit ff9ef886989cf304663f314ae3b6898c485eee9f[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Murilo358 <murilobarbosa358@gmail.com>
+Date:   Sat Jul 8 18:13:36 2023 -0300
+
+    feat: add datepicker form validation
+
+[33mcommit 4e606acba2ecb32e80472a6485cfcf95407b3391[m
+Author: Murilo358 <murilobarbosa358@gmail.com>
+Date:   Fri Jul 7 18:58:53 2023 -0300
+
+    feat: added input requirements
+
+[33mcommit 3e61aad67017035cd0d803feff05af87c5eaff60[m
+Author: Murilo358 <murilobarbosa358@gmail.com>
+Date:   Fri Jul 7 18:58:28 2023 -0300
+
+    style: change primary darker color
+
+[33mcommit 938690b21764374a183f3ffc82673a8c073fc93c[m
+Author: Murilo358 <murilobarbosa358@gmail.com>
+Date:   Fri Jul 7 12:56:46 2023 -0300
+
+    add: footer component
+
+[33mcommit 5ccd4d83a76e90b927c3ab0bfc625105d4b17e8e[m
+Author: Murilo358 <murilobarbosa358@gmail.com>
+Date:   Fri Jul 7 12:36:22 2023 -0300
+
+    feat: add trip location component
+
+[33mcommit 7095d717ac46ec3d7d621edfb859eef8326a1da4[m
+Author: Murilo358 <murilobarbosa358@gmail.com>
+Date:   Fri Jul 7 12:35:56 2023 -0300
+
+    feat: add location description
+
+[33mcommit c9560405945b050bcb84f5b1534f1a7e519978a7[m
+Author: Murilo358 <murilobarbosa358@gmail.com>
+Date:   Thu Jul 6 23:23:17 2023 -0300
+
+    feat: add trip highlight
+
+[33mcommit d85c39729164e55ac68f12f019732107566b35ec[m
+Author: Murilo358 <murilobarbosa358@gmail.com>
+Date:   Thu Jul 6 22:47:19 2023 -0300
+
+    feat: add trip description
+
+[33mcommit 3a0b067ba3288b76d8e029325d786b255b5b9aef[m
+Author: Murilo358 <murilobarbosa358@gmail.com>
+Date:   Thu Jul 6 22:29:19 2023 -0300
+
+    style: add border to trip reservation
+
+[33mcommit a5cac3683b253ecb3c1fae1149fbf65665b08ec3[m
+Author: Murilo358 <murilobarbosa358@gmail.com>
+Date:   Thu Jul 6 22:24:50 2023 -0300
+
+    feat: add trip reservation component
+
+[33mcommit 23bd7da454f3fdcf39516dc3546a4fc6ece1a30e[m
+Author: Murilo358 <murilobarbosa358@gmail.com>
+Date:   Thu Jul 6 22:01:53 2023 -0300
+
+    feat: add initial trip details
+
+[33mcommit 1519faf171b09e6e9a391f82409ca99b1f062bf9[m
+Author: Murilo358 <murilobarbosa358@gmail.com>
+Date:   Thu Jul 6 19:39:25 2023 -0300
+
+    Feat: add recommended trips
+
+[33mcommit 74966a121c06d8d421850a4542c8e7d1938a0ea4[m
+Author: Murilo358 <murilobarbosa358@gmail.com>
+Date:   Thu Jul 6 19:38:26 2023 -0300
+
+    feat: add tripItem component
+
+[33mcommit f5cedc53036a67910a0d2c17e6941953969d891c[m
+Author: Murilo358 <murilobarbosa358@gmail.com>
+Date:   Wed Jul 5 23:19:07 2023 -0300
+
+    feat: add quick search component
+
+[33mcommit a2e5b8ac703f841ab6d4ac2f57970d6275a332f7[m
+Author: Murilo358 <murilobarbosa358@gmail.com>
+Date:   Wed Jul 5 22:25:07 2023 -0300
+
+    chore: add domains to next config
+
+[33mcommit b22ea73db81ac077a8d8a3e94c874e8101e6cf13[m
+Author: Murilo358 <murilobarbosa358@gmail.com>
+Date:   Wed Jul 5 22:24:39 2023 -0300
+
+    feat: add tailwind colors
+
+[33mcommit d8dd22513bae40e5b6e90eacccb6be22880761f6[m
+Author: Murilo358 <murilobarbosa358@gmail.com>
+Date:   Wed Jul 5 18:31:42 2023 -0300
+
+    feat: add next auth provider
+
+[33mcommit aa411f3f2773a96cca71c37fd70f7a25dc933dbf[m
+Author: Murilo358 <murilobarbosa358@gmail.com>
+Date:   Tue Jul 4 22:12:48 2023 -0300
+
+    first commit
+
+[33mcommit db4da8ba5845e1928634b43732c59573287212d1[m
+Author: Murilo358 <murilobarbosa358@gmail.com>
+Date:   Tue Jul 4 17:09:40 2023 -0300
+
+    Initial commit from Create Next App
